@@ -11,11 +11,6 @@ Besides coding, I like Travelling :Solo: and sleeping :sleeping:
 
 - :man_technologist: Code: HTML, CSS, JavaScript, React,Python,Selenium.
  
-
-<a href="https://twitter.com/Priyanka__488">
-  <img align="left" alt="Pusendra's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
-</a>
-
 <a href="https://www.linkedin.com/in/pusendra-c-ba1138112/">
   <img align="left" alt="Pusendra's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
