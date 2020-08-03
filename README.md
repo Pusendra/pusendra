@@ -1,16 +1,28 @@
-### Hi there 👋
 
 <!--
 **Pusendra/pusendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> Hi, I'm Pusendra! <img src="https://media.giphy.com/media/l0Iyn34fotpL8K9wI/giphy.gif" width="50"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+I am a final year student at Kathmandu University, Dhulikhel, pursuing my Bachelors in Computer Engineering.<br>
+And also an optimisitic, curious and well-focused developer. :sparkles: <br>
+
+
+I am doing internships as a Frontend Developer [@Ansu Tech](http://www.ansutech.com/) and [@Bitsbeat](https://www.bitsbeat.com/). 
+Besides coding, I like Travelling :Solo: and sleeping :sleeping:
+
+- :man_technologist: Code: HTML, CSS, JavaScript, React,Python,Selenium.
+ 
+
+<a href="https://twitter.com/Priyanka__488">
+  <img align="left" alt="Pusendra's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pusendra-c-ba1138112/">
+  <img align="left" alt="Pusendra's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+
+
