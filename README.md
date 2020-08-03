@@ -1,7 +1,3 @@
-
-<!--
-**Pusendra/pusendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2> Hi, I'm Pusendra! <img src="https://media.giphy.com/media/l0Iyn34fotpL8K9wI/giphy.gif" width="50"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
