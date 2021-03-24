@@ -7,7 +7,7 @@ And also an optimisitic, curious and well-focused developer. :sparkles: <br>
 
 
 I have done internships as a Frontend Developer [@Ansu Tech](http://www.ansutech.com/) and currently doing intership at[@Bitsbeat](https://www.bitsbeat.com/). 
-Besides coding, I like Travelling :Solo: and sleeping :sleeping:
+Besides coding, I like Travelling : and sleeping :sleeping:
 
 - :man_technologist: Code: HTML, CSS, JavaScript, React,Python,Selenium.
  
